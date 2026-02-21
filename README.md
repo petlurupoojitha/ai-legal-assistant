@@ -21,6 +21,8 @@ Limited digital literacy
 
 An AI-powered chatbot that helps Indian citizens discover government schemes, check eligibility, and understand legal rights in simple language.
 
+
+
 💡 Solution
 
 AI Legal & Government Scheme Assistant is a multilingual AI chatbot that:
